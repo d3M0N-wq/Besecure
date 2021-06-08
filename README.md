@@ -1,6 +1,6 @@
 # BeSecure (PHISHING WEB-PAGE DETECTION USING ML)
 
-Contributors: Gaurav, Meeraj, Tenzin Ayush.
+Contributors: Gaurav, Meeraj, Tenzin, Ayush.
 
 There are many approaches or methods to detect any malicious or phishing websites, but since the
 implementation is very important, we should make a software that doesn’t need much processing
