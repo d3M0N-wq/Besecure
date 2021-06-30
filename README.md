@@ -19,4 +19,4 @@ Linux requirements:-
       requests
       numpy
       bs4
-      datetime
+      datetime.
